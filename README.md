@@ -1,2 +1,1 @@
-Hi, I'm Ved.
-SBHS 2023
+# Hi, I'm Ved.
