@@ -1,2 +1,2 @@
 # Hi, I'm Ved.
-[My website](ved.kothavade.com)
+[My website](https://ved.kothavade.com)
