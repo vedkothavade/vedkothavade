@@ -65,7 +65,8 @@
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="introduction">Junior @ SBHS</div>
+                        <div class="introduction">Junior @ SBHS.
+React, Postgres, and Node @ BGC Partners.</div>
                     </section>
                 </div>
             </section>
@@ -1243,7 +1244,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Jul 2022, 17:18:06 (timezone America/New_York) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 11 Jul 2022, 18:19:48 (timezone America/New_York) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
