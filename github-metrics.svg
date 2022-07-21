@@ -66,7 +66,7 @@
                 <div class="row fill-width">
                     <section>
                         <div class="introduction">Junior @ SBHS.
-React, Postgres, and Node @ BGC Partners.</div>
+Postgres, Express, React and Node @ BGC Partners.</div>
                     </section>
                 </div>
             </section>
@@ -83,7 +83,7 @@ React, Postgres, and Node @ BGC Partners.</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            392 Commits
+                            393 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -128,14 +128,14 @@ React, Postgres, and Node @ BGC Partners.</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="269.2806340661796" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="269.2806340661796" y="0" width="86.90974586886547" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="356.19037993504503" y="0" width="43.14732261965163" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="399.3377025546967" y="0" width="30.786233742037773" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="430.1239362967344" y="0" width="11.431989465392167" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="441.5559257621266" y="0" width="9.82621695612419" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="451.3821427182508" y="0" width="5.632736691782228" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="457.014879410033" y="0" width="2.98512058996698" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="270.14818972552996" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="270.14818972552996" y="0" width="84.74107473155522" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="354.8892644570852" y="0" width="42.07066139734591" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="396.95992585443105" y="0" width="30.018020512607965" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="426.977946367039" y="0" width="11.146725421092246" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="438.12467178813125" y="0" width="9.58102197955794" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="447.7056937676892" y="0" width="9.125376823601359" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="456.83107059129054" y="0" width="3.1689294087093707" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -182,9 +182,9 @@ React, Postgres, and Node @ BGC Partners.</div>
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#00B4AB" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        Dart
+                        Shell
                     </div>
                 </div>
             </section>
@@ -1265,7 +1265,7 @@ React, Postgres, and Node @ BGC Partners.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Jul 2022, 16:23:15 (timezone America/New_York) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 21 Jul 2022, 17:21:05 (timezone America/New_York) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
